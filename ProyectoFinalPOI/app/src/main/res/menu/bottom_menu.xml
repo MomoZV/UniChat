@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_notification"
+        android:title="Avisos"
+        android:icon="@drawable/bell"/>
+
+    <item android:id="@+id/nav_aulas"
+        android:title="Aulas"
+        android:icon="@drawable/ic_clase2"/>
+
+    <item android:id="@+id/nav_chats"
+        android:title="Chats"
+        android:icon="@drawable/chatgroup"/>
+
+    <item android:id="@+id/nav_homework"
+        android:title="Tareas"
+        android:icon="@drawable/ic_homework"/>
+
+    <item android:id="@+id/nav_calendario"
+        android:title="Calendario"
+        android:icon="@drawable/calendario"/>
+
+</menu>

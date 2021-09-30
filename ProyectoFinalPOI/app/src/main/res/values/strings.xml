@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pantalla1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string-array name="array_estatus">
+        <item>Disponible</item>
+        <item>Ocupado</item>
+    </string-array>
+</resources>

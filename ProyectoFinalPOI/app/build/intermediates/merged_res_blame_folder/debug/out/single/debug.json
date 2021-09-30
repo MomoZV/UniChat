@@ -1,0 +1,690 @@
+[
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chat1v1.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\fragment_chat1v1.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_plato.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\ic_plato.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_buscarchat1.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xhdpi\\buscarchat1.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tareas.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\fragment_tareas.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_group_posts.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\group_posts.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_food.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\ic_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_calendar.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_searcher.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\chat_searcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_mensajes_foreground.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xhdpi\\mensajes_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_nuevochat.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\ic_nuevochat.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_mensajes.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-mdpi\\mensajes.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_pantalla_actividad.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\pantalla_actividad.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_teams.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\teams.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_grupos3.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xhdpi\\grupos3.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_mensajes.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxhdpi\\mensajes.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_buscarchat1.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxhdpi\\buscarchat1.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectanguloverde.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\rectanguloverde.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_mensajes2_foreground.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-mdpi\\mensajes2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground1.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground1.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_buscarchat.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xhdpi\\buscarchat.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_mensajes2.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxhdpi\\mensajes2.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_perfil.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxxhdpi\\perfil.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_buscarchat.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-hdpi\\buscarchat.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tareas.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\tareas.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\menu_nav_drawer_menu.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\menu\\nav_drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_grupos3_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-mdpi\\grupos3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\xml_actions.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\xml\\actions.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_mensajes2.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-hdpi\\mensajes2.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_mensajes_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-mdpi\\mensajes_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_mensajes_foreground.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-hdpi\\mensajes_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_mensajes2_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-hdpi\\mensajes2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_messages.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\messages.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_mensajes_foreground.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-mdpi\\mensajes_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_mensajes2_foreground.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xhdpi\\mensajes2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_group.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\fragment_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangulogris.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\rectangulogris.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_blue2.jpg.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable-v24\\blue2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_grupos3.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-mdpi\\grupos3.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bell.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\bell.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_buscarchat.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-mdpi\\buscarchat.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_perfil.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-hdpi\\perfil.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_buscarchat_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-mdpi\\buscarchat_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground1.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground1.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tareas.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\activity_tareas.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_perfil_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxxhdpi\\perfil_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_iniciarsesion.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\iniciarsesion.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_clase2.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\ic_clase2.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_header.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\drawer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_perfil_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-hdpi\\perfil_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_esquinasintro.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\esquinasintro.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_mensajes.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-hdpi\\mensajes.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_lightbackground.jpg.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable-v24\\lightbackground.jpg"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_tareas.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\tareas.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_perfil_background.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-hdpi\\perfil_background.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_registro_usuarios.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\registro_usuarios.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_circulo.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable-v24\\circulo.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_computer.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\ic_computer.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_buscarchat.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxhdpi\\buscarchat.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_perfil_background.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxhdpi\\perfil_background.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calendario.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\calendario.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground1.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground1.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectanguloazulaqua.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\rectanguloazulaqua.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_tareas_f_activity.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\tareas_f_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_grupos3.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxxhdpi\\grupos3.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_simple_string.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\simple_string.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_uanl.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\uanl.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_perfil.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxhdpi\\perfil.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menuburguer1.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\ic_menuburguer1.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_esquinas.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\esquinas.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_group.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\add_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_ignora_activity_tareas_pant.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\ignora_activity_tareas_pant.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_all_msgs.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\activity_all_msgs.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_ausente.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\ic_ausente.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_chats.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\menu\\menu_chats.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cuentas.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\ic_cuentas.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search2.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\ic_search2.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user1.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\ic_user1.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cuentas2.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\ic_cuentas2.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_buscarchat.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxxhdpi\\buscarchat.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_mensajes2_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-mdpi\\mensajes2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_mensajes2_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxhdpi\\mensajes2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_perfil_background.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxxhdpi\\perfil_background.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_perfil_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-mdpi\\perfil_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_clase.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\ic_clase.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circleimages.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\circleimages.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_perfil_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xhdpi\\perfil_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_mensajes2_foreground.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxxhdpi\\mensajes2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_mensajes_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxxhdpi\\mensajes_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_tareas_design.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\tareas_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_buscarchat1.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxxhdpi\\buscarchat1.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_check_24.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\ic_baseline_check_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_grupos3_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxxhdpi\\grupos3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_mensajes2_foreground.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-hdpi\\mensajes2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_homework.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\ic_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_mensajes_foreground.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxhdpi\\mensajes_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_tareas_design_completadas.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\tareas_design_completadas.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_2.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\activity_main_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_masopciones.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\ic_masopciones.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_perfil.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xhdpi\\perfil.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground1.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground1.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ultralight.jpg.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable-v24\\ultralight.jpg"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_grupos3_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xhdpi\\grupos3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_mensajes2.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxxhdpi\\mensajes2.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_mensajes2_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxxhdpi\\mensajes2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_password2.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\ic_password2.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_buscarchat_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-hdpi\\buscarchat_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chats.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\fragment_chats.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_mensajes2.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-mdpi\\mensajes2.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_group_dessign.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\group_dessign.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_drawer.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\menu\\menu_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notifications.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_password.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\ic_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_aulas.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\fragment_aulas.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_buscarchat_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxxhdpi\\buscarchat_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_grupos3.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-hdpi\\grupos3.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_perfil_background.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xhdpi\\perfil_background.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_grupos3_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-hdpi\\grupos3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_buscarchat_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xhdpi\\buscarchat_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_grupos3.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxhdpi\\grupos3.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background.jpg.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable-v24\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectanguloazul.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\rectanguloazul.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangulocombina.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\rectangulocombina.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_mensajes2_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xhdpi\\mensajes2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_perfil_background.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-mdpi\\perfil_background.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_filter.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\ic_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_perfil_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxhdpi\\perfil_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mssg_design.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\activity_mssg_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menuburguer2.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\ic_menuburguer2.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_mensajes_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxhdpi\\mensajes_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_perfil.jpg.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable-v24\\perfil.jpg"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_mensajes.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxxhdpi\\mensajes.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_mensajes_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-hdpi\\mensajes_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_mensajes_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xhdpi\\mensajes_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_perfil.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-mdpi\\perfil.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_buscarchat1.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-hdpi\\buscarchat1.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_descuento.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\ic_descuento.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_mensajes2.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xhdpi\\mensajes2.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground1.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground1.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangulocombina2.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\rectangulocombina2.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_posts.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\posts.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tareas_pant.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\layout\\activity_tareas_pant.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_mensajes.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xhdpi\\mensajes.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_mensajes_foreground.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxxhdpi\\mensajes_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangulo2.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\rectangulo2.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_grupos3_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxhdpi\\grupos3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_mensajes2_foreground.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxhdpi\\mensajes2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_buscarchat1.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-mdpi\\buscarchat1.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\menu_menuop2.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\menu\\menuop2.xml"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pequenaresolucion.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\pequenaresolucion.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_buscarchat_round.png.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\mipmap-xxhdpi\\buscarchat_round.png"
+    },
+    {
+        "merged": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chatgroup.xml.flat",
+        "source": "C:\\Users\\molec\\Documents\\8o Semestre\\poi\\FInalPoi\\ProyectoFinalPOI\\app\\src\\main\\res\\drawable\\chatgroup.xml"
+    }
+]

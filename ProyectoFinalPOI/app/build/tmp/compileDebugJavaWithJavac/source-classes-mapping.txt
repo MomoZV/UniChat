@@ -1,0 +1,4 @@
+com/example/pantalla1/adaptadores/pruebas.java
+ com.example.pantalla1.adaptadores.pruebas
+com/example/pantalla1/BuildConfig.java
+ com.example.pantalla1.BuildConfig

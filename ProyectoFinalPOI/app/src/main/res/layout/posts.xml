@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+    <LinearLayout
+        android:id="@+id/postcontainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/esquinas"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <TextView
+
+            android:id="@+id/tvPostUser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            tools:text="sdsdsdsddsdsd" />
+
+        <TextView
+            android:id="@+id/tvPostContent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:ems="10"
+            android:textColor="#FFFFFF"
+            tools:text="sdsddsd"></TextView>
+
+
+        <TextView
+            android:id="@+id/tvPostDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:gravity="end"
+            android:textColor="#FFFFFF"
+            tools:text="dsdsdsdsd" />
+    </LinearLayout>
+</FrameLayout>

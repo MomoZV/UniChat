@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp"
+    tools:context=".tareasActivity">
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Elige la materia" />
+
+    <Spinner
+        android:id="@+id/spinnerElementos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <EditText
+        android:id="@+id/txtMateria"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:focusable="false"
+        android:clickable="false"
+         />
+
+    <EditText
+        android:id="@+id/txtNombreTarea"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Nombre de la tarea"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/txtInstrucciones"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Instrucciones"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/txtPuntos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number"
+        android:hint="Puntos"
+        />
+
+    <EditText
+        android:id="@+id/etDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:ems="15"
+
+        android:focusable="false"
+        android:hint="Selecciona el dia de entrega" />
+
+    <Button
+        android:id="@+id/btnPublicarTarea"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Publicar tarea" />
+    //android:inputType="textPersonName"
+
+</LinearLayout>

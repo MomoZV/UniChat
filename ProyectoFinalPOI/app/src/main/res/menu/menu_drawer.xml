@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_notification2"
+        android:title="Avisos"
+        android:icon="@drawable/bell"/>
+
+    <item android:id="@+id/nav_aulas2"
+        android:title="Aulas"
+        android:icon="@drawable/ic_clase2"/>
+
+    <item android:id="@+id/nav_chats2"
+        android:title="Chats"
+        android:icon="@drawable/chatgroup"/>
+
+    <item
+        android:id="@+id/nav_homework_maestro"
+        android:icon="@drawable/ic_homework"
+        android:title="Crear tareas"
+        android:visible="false" />
+
+    <item android:id="@+id/nav_calendario2"
+        android:title="Calendario"
+        android:icon="@drawable/calendario"/>
+    <item android:id="@+id/nav_homework_alumno"
+        android:title="Tareas"
+        android:icon="@drawable/ic_homework"/>
+
+</menu>

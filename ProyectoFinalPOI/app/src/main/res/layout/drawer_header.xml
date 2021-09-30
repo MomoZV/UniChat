@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#334455"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:id="@+id/meterImagen"
+    >
+
+    <ImageView
+        android:id="@+id/fotoPerfil"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        tools:srcCompat="@tools:sample/backgrounds/scenic" />
+
+    <TextView
+        android:id="@+id/txtNameUser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txtemailuser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/array_estatus"
+        android:spinnerMode="dialog" />
+
+    <Switch
+        android:id="@+id/switchCyph"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="true"
+        android:clickable="true"
+        android:paddingLeft="8dp"
+        android:switchPadding="3dp"
+        android:text="Mensajes Cifrados"
+        android:textOff="Off"
+        android:textOn="On" />
+
+</LinearLayout>

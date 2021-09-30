@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "2829459882",
+    "firebase_url": "https://poifinal1-default-rtdb.firebaseio.com",
+    "project_id": "poifinal1",
+    "storage_bucket": "poifinal1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2829459882:android:a4a5be3c0899db75b6cbd3",
+        "android_client_info": {
+          "package_name": "com.example.pantalla1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2829459882-rfmjictrakv37rlh0fi0tsuppc0c1qt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdXgoarjvP3aiA4qGbOE107odK1ckYb0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2829459882-rfmjictrakv37rlh0fi0tsuppc0c1qt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

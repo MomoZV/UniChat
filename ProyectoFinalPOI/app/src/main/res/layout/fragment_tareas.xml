@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp"
+    tools:context=".fragments.TareasFragment">
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Elige la materia"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Spinner
+        android:id="@+id/spinnerElementos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/textView23" />
+
+    <EditText
+        android:id="@+id/txtMateria"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:ems="10"
+        android:focusable="false"
+        android:inputType="textPersonName"
+        app:layout_constraintTop_toBottomOf="@+id/spinnerElementos"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <EditText
+        android:id="@+id/txtNombreTarea"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Nombre de la tarea"
+        android:inputType="textPersonName"
+        app:layout_constraintTop_toBottomOf="@+id/txtMateria" />
+
+    <EditText
+        android:id="@+id/txtInstrucciones"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Instrucciones"
+        android:inputType="textPersonName"
+        app:layout_constraintTop_toBottomOf="@+id/txtNombreTarea" />
+
+    <EditText
+        android:id="@+id/txtPuntos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Puntos"
+        android:inputType="number"
+        app:layout_constraintTop_toBottomOf="@+id/txtInstrucciones" />
+
+    <EditText
+        android:id="@+id/etDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:ems="15"
+        android:focusable="false"
+        android:hint="Selecciona el dia de entrega"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtPuntos" />
+
+    <Button
+        android:id="@+id/btnPublicarTarea"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Publicar tarea"
+        app:layout_constraintTop_toBottomOf="@+id/etDate" />
+    <!--<TextView
+        android:id="@+id/textView19"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="notifications"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="32sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+-->
+</androidx.constraintlayout.widget.ConstraintLayout>
